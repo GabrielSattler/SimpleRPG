@@ -1,0 +1,46 @@
+{
+    "Commands": [
+        {
+            "name" : "aa",
+            "short" : "dI",
+            "desc" : "Lets you look at your farm plots.",
+            "private" : false
+        },
+        {
+            "name" : "help",
+            "short" : "h",
+            "desc" : "Shows the list of commands.",
+            "private" : false
+        },
+        {
+            "name" : "inventory",
+            "short" : "i",
+            "desc" : "Lets you look at your inventory.",
+            "private" : false
+        },
+        {
+            "name" : "iteminfo",
+            "short" : "ii",
+            "desc" : "Lets you look at the details of an item.",
+            "private" : false
+        },
+        {
+            "name" : "profile",
+            "short" : "p",
+            "desc" : "Lets you look at your own profile.",
+            "private" : false
+        },
+        {
+            "name" : "equip",
+            "short" : "e",
+            "desc" : "Equips the selected item.",
+            "private" : false
+        },
+        {
+            "name" : "crate",
+            "short" : "c",
+            "desc" : "Opens a weapon crate.",
+            "private" : false
+        }
+    ]
+}

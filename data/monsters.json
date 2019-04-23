@@ -1,0 +1,76 @@
+{
+    "Monstruos": [
+        {
+            "name" : "Fantasma",
+            "icon" :"👻",
+            "level" : 1,
+            "health" : 10,
+            "minAttack" : 1,
+            "maxAttack" : 2,
+            "defense" : 1
+        },
+        {
+            "name" : "Esqueleto",
+            "icon" :"💀",
+            "level" : 1,
+            "health" : 10,
+            "minAttack" : 1,
+            "maxAttack" : 2,
+            "defense" : 1
+        },
+        {
+            "name" : "Robocop",
+            "icon" :"🤖",
+            "level" : 1,
+            "health" : 10,
+            "minAttack" : 1,
+            "maxAttack" : 2,
+            "defense" : 1
+        },
+        {
+            "name" : "BRAZO MAGICO",
+            "icon" :"🤳",
+            "level" : 1,
+            "health" : 10,
+            "minAttack" : 1,
+            "maxAttack" : 2,
+            "defense" : 1
+        },
+        {
+            "name" : "Viejo Rancio",
+            "icon" :"👴🏿",
+            "level" : 1,
+            "health" : 10,
+            "minAttack" : 1,
+            "maxAttack" : 2,
+            "defense" : 1
+        },
+        {
+            "name" : "Roedor de Cuarta",
+            "icon" :"🐀",
+            "level" : 1,
+            "health" : 10,
+            "minAttack" : 1,
+            "maxAttack" : 2,
+            "defense" : 1
+        },
+        {
+            "name" : "Lit Man",
+            "icon" :"💯😂🔥",
+            "level" : 1,
+            "health" : 10,
+            "minAttack" : 1,
+            "maxAttack" : 2,
+            "defense" : 1
+        },
+        {
+            "name" : "Bakasura",
+            "icon" :"👹",
+            "level" : 1,
+            "health" : 10,
+            "minAttack" : 1,
+            "maxAttack" : 2,
+            "defense" : 1
+        }
+    ]
+}

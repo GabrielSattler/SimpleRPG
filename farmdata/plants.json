@@ -1,0 +1,39 @@
+{
+    "Armas": [
+        {
+            "name" : "Puños",
+            "icon" :"👊",
+            "price" : 0,
+            "minDamage" : 1,
+            "maxDamage" : 2
+        },
+        {
+            "name" : "Brazo Trabado",
+            "icon" :"💪",
+            "price" : 200,
+            "minDamage" : 2,
+            "maxDamage" : 4
+        },
+        {
+            "name" : "Cactus del Dolor",
+            "icon" :"🌵",
+            "price" : 2500,
+            "minDamage" : 5,
+            "maxDamage" : 10
+        },
+        {
+            "name" : "Baguette de hace una Semana",
+            "icon" :"🥖",
+            "price" : 7500,
+            "minDamage" : 10,
+            "maxDamage" : 15
+        },
+        {
+            "name" : "Tiro tiro tiro puñalada puñalada",
+            "icon" :"🔪",
+            "price" : 20000,
+            "minDamage" : 15,
+            "maxDamage" : 25
+        }
+    ]
+}

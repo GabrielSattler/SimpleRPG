@@ -1,0 +1,309 @@
+{
+    "armor": [
+        {
+            "id" : 1,
+            "name" : "Rusty Sword",
+            "icon" :"<:sword_00:570069137192386581>",
+            "desc" :"A rusty sword made of iron.",
+            "price" : 5,
+            "rarity" : 0,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 2,
+            "name" : "Iron Sword",
+            "icon" :"<:sword_01:570069137238392833>",
+            "desc" :"A sword made from iron.",
+            "price" : 15,
+            "rarity" : 1,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 3,
+            "name" : "Steel Sword",
+            "icon" :"<:sword_02:570069137519280148>",
+            "desc" :"A sharp sword made from steel.",
+            "price" : 50,
+            "rarity" : 2,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 4,
+            "name" : "Sharpened Sword",
+            "icon" : "<:sword_03:570069137448108062>",
+            "desc" : "A very sharp sword made from a steel alloy.",
+            "price" : 250,
+            "rarity" : 3,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 5,
+            "name" : "Mythril Sword",
+            "icon" :"<:sword_04:570069137632788480>",
+            "desc" :"A very sharp sword made from mythril, decorated with gold.",
+            "price" : 5000,
+            "rarity" : 4,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 6,
+            "name" : "Stone Edge",
+            "icon" :"<:sword_05:570069138119327764>",
+            "desc" :"A long forgotten but still deadly stone sword.",
+            "price" : 15000,
+            "rarity" : 5,
+            "maxHit" : 3,
+            "minHit" : 1
+        }],
+    "sword": [
+        {
+            "id" : 1,
+            "name" : "Rusty Sword",
+            "icon" :"<:sword_00:570069137192386581>",
+            "desc" :"A rusty sword made of iron.",
+            "price" : 5,
+            "rarity" : 0,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 2,
+            "name" : "Iron Sword",
+            "icon" :"<:sword_01:570069137238392833>",
+            "desc" :"A sword made from iron.",
+            "price" : 15,
+            "rarity" : 1,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 3,
+            "name" : "Steel Sword",
+            "icon" :"<:sword_02:570069137519280148>",
+            "desc" :"A sharp sword made from steel.",
+            "price" : 50,
+            "rarity" : 2,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 4,
+            "name" : "Sharpened Sword",
+            "icon" : "<:sword_03:570069137448108062>",
+            "desc" : "A very sharp sword made from a steel alloy.",
+            "price" : 250,
+            "rarity" : 3,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 5,
+            "name" : "Mythril Sword",
+            "icon" :"<:sword_04:570069137632788480>",
+            "desc" :"A very sharp sword made from mythril, decorated with gold.",
+            "price" : 5000,
+            "rarity" : 4,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 6,
+            "name" : "Stone Edge",
+            "icon" :"<:sword_05:570069138119327764>",
+            "desc" :"A long forgotten but still deadly stone sword.",
+            "price" : 15000,
+            "rarity" : 5,
+            "maxHit" : 3,
+            "minHit" : 1
+        }],
+    "bow" : [
+        {
+            "id" : 1,
+            "name" : "Thin Bow",
+            "icon" :"<:bow_00:570069137154637845>",
+            "desc" :"A crude bow.",
+            "price" : 5,
+            "rarity" : 0,
+            "maxHit" : 2,
+            "minHit" : 2
+        },
+        {
+            "id" : 2,
+            "name" : "Bow",
+            "icon" :"<:bow_01:570069137053712389>",
+            "desc" :"A normal bow, carved from wood.",
+            "price" : 15,
+            "rarity" : 1,
+            "maxHit" : 6,
+            "minHit" : 3
+        },
+        {
+            "id" : 3,
+            "name" : "Strong Bow",
+            "icon" :"<:bow_02:570069137288593408>",
+            "desc" :"A fine bow, delicately made.",
+            "price" : 50,
+            "rarity" : 2,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 4,
+            "name" : "Bow",
+            "icon" :"<:bow_03:570069137225940992>",
+            "desc" :"An excellent bow with gold details.",
+            "price" : 250,
+            "rarity" : 3,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 5,
+            "name" : "Bow",
+            "icon" : "<:bow_04:570069136844259358>",
+            "desc" : "A legendary bow carved from bone.",
+            "price" : 5000,
+            "rarity" : 4,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 6,
+            "name" : "Bow",
+            "icon" :"<:bow_05:570069137167220766>",
+            "desc" :"A bow fit for a hero, made from several metal alloys.",
+            "price" : 15000,
+            "rarity" : 5,
+            "maxHit" : 3,
+            "minHit" : 1
+        }
+    ],
+    "staff" : [
+        {
+            "id" : 1,
+            "name" : "Old Staff",
+            "icon" : "<:staff_00:570069137523736586>",
+            "desc" : "A splintery, hand carved staff.",
+            "price" : 5,
+            "rarity" : 0,
+            "maxHit" : 5,
+            "minHit" : 0
+        },
+        {
+            "id" : 2,
+            "name" : "Staff",
+            "icon" : "<:staff_01:570069137632526337>",
+            "desc" : "An ornamental staff.",
+            "price" : 15,
+            "rarity" : 1,
+            "maxHit" : 10,
+            "minHit" : 3
+        },
+        {
+            "id" : 3,
+            "name" : "Gold Staff",
+            "icon" : "<:staff_02:570069137250975765>",
+            "desc" : "A gold tipped staff.",
+            "price" : 50,
+            "rarity" : 2,
+            "maxHit" : 25,
+            "minHit" : 5
+        },
+        {
+            "id" : 4,
+            "name" : "Staff",
+            "icon" :"<:staff_03:570069137506828298>",
+            "desc" :"A magical staff made from silver.",
+            "price" : 250,
+            "rarity" : 3,
+            "maxHit" : 50,
+            "minHit" : 7
+        },
+        {
+            "id" : 5,
+            "name" : "Staff",
+            "icon" :"<:staff_04:570069137632788500>",
+            "desc" :"A legendary staff that harnesses its powers from the moon itself.",
+            "price" : 5000,
+            "rarity" : 4,
+            "maxHit" : 75,
+            "minHit" : 10
+        },
+        {
+            "id" : 6,
+            "name" : "Staff",
+            "icon" :"<:staff_05:570069137498439690>",
+            "desc" :"A branch of a long extinct magical tree.",
+            "price" : 15000,
+            "rarity" : 5,
+            "maxHit" : 150,
+            "minHit" : 25
+        }
+    ],
+    "ring": [
+        {
+            "id" : 1,
+            "name" : "Rusty Sword",
+            "icon" :"<:sword_00:570069137192386581>",
+            "desc" :"A rusty sword made of iron.",
+            "price" : 5,
+            "rarity" : 0,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 2,
+            "name" : "Iron Sword",
+            "icon" :"<:sword_01:570069137238392833>",
+            "desc" :"A sword made from iron.",
+            "price" : 15,
+            "rarity" : 1,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 3,
+            "name" : "Steel Sword",
+            "icon" :"<:sword_02:570069137519280148>",
+            "desc" :"A sharp sword made from steel.",
+            "price" : 50,
+            "rarity" : 2,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 4,
+            "name" : "Sharpened Sword",
+            "icon" : "<:sword_03:570069137448108062>",
+            "desc" : "A very sharp sword made from a steel alloy.",
+            "price" : 250,
+            "rarity" : 3,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 5,
+            "name" : "Mythril Sword",
+            "icon" :"<:sword_04:570069137632788480>",
+            "desc" :"A very sharp sword made from mythril, decorated with gold.",
+            "price" : 5000,
+            "rarity" : 4,
+            "maxHit" : 3,
+            "minHit" : 1
+        },
+        {
+            "id" : 6,
+            "name" : "Stone Edge",
+            "icon" :"<:sword_05:570069138119327764>",
+            "desc" :"A long forgotten but still deadly stone sword.",
+            "price" : 15000,
+            "rarity" : 5,
+            "maxHit" : 3,
+            "minHit" : 1
+        }]
+}
